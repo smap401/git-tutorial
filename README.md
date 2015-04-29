@@ -3,3 +3,5 @@
 featureA
 
 featureB
+
+featureC
